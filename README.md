@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Mike Koval from Thunder Bay, ON, Canada
+- 👋 Hi, I'm Mike from Thunder Bay, ON, Canada
 - 👀 I'm interested in web development, especially using React.js and modern JavaScript frameworks.
 - 🌱 I'm currently learning Context API and Redux to improve my skills as a React developer.
 - 💞️ I'm looking to collaborate with other developers in Ontario, Canada on interesting web development projects.
